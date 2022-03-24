@@ -1,0 +1,6 @@
+C:\Users\Admin\Documents\Visual Studio 2022\LABUnitTestProject\MyClassLibrary1\bin\Debug\MyClassLibrary1.dll
+C:\Users\Admin\Documents\Visual Studio 2022\LABUnitTestProject\MyClassLibrary1\bin\Debug\MyClassLibrary1.pdb
+C:\Users\Admin\Documents\Visual Studio 2022\LABUnitTestProject\MyClassLibrary1\obj\Debug\MyClassLibrary1.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2022\LABUnitTestProject\MyClassLibrary1\obj\Debug\MyClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Visual Studio 2022\LABUnitTestProject\MyClassLibrary1\obj\Debug\MyClassLibrary1.dll
+C:\Users\Admin\Documents\Visual Studio 2022\LABUnitTestProject\MyClassLibrary1\obj\Debug\MyClassLibrary1.pdb
